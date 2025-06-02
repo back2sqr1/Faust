@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "8125cd0ba63279fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "c50738d97f56ddc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1056c5431db9c632",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notetaking/Design of Everyday things.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Design of Everyday things"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f04ab28fd676d294",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b06ff4effbc1cea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80f2e5ed64742791",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "40417bfa90fbd361",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d0f7d2248000eb1b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "edc21bf3e32c3ba4",
+    "type": "split",
+    "children": [
+      {
+        "id": "68e1bdfa96038af8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce861b2099731929",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Veldt Thesis.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Veldt Thesis"
+            }
+          },
+          {
+            "id": "52741f9fa5599e27",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Veldt Thesis.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Veldt Thesis"
+            }
+          },
+          {
+            "id": "22ea8feef0b7046b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b0ebe6c46f6bec40",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Veldt Thesis.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Veldt Thesis"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "1056c5431db9c632",
+  "lastOpenFiles": [
+    "README.md",
+    "Untitled.canvas",
+    "Notetaking/Design of Everyday things.md",
+    "PDFs",
+    "2025-06-02.md",
+    "Untitled 1.canvas",
+    "Untitled.md",
+    "CSCE 643 Seminar in Robotics - Day 1.md",
+    "Notetaking",
+    "Veldt Thesis.md",
+    "LambdaCC.md",
+    "lambda.md",
+    "$$/lambda$$.md",
+    "$$"
+  ]
+}
