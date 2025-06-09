@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d85699ac39df4843",
+        "id": "5fedd5a50b9fe0b8",
         "type": "tabs",
         "children": [
           {
-            "id": "1deae5c37215ced2",
+            "id": "a5085f2e3346a4ae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf-annotator",
               "state": {
-                "file": "Notetaking/Articles/Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "Notetaking/Papers/Approximate Sequential Optimization for informative path planning.md"
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Approximate Sequential Optimization for informative path planning"
             }
           }
         ]
@@ -78,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "edc21bf3e32c3ba4",
@@ -94,17 +93,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notetaking/Articles/Untitled.md",
+                "file": "Notetaking/Papers/Approximate Sequential Optimization for informative path planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for Approximate Sequential Optimization for informative path planning"
             }
           },
           {
@@ -150,10 +149,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "annotate-articles:Sample Plugin": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -163,28 +164,37 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "1deae5c37215ced2",
+  "active": "a5085f2e3346a4ae",
   "lastOpenFiles": [
-    "Notetaking/Articles/Untitled.md",
-    "Notetaking/Articles",
+    "PDFs/Approximate_sequential_optimization_for_informative_path_planning.pdf",
     "Notetaking/Books/Motion Planning - Steven Lavelle.md",
+    "Notetaking/Papers/Approximate Sequential Optimization for informative path planning.md",
+    "Notetaking/Papers/Approximate Sequential Optimization for informative path planning.md",
     "Notetaking/Books/Design of Everyday things.md",
-    "Notetaking/Books",
-    "Untitled",
-    "Notetaking/Untitled.md",
+    "Notetaking/Articles/3 Financial Statements to Measure a Company's Strength.md",
     "PDFs/The_Design_of_Everyday_Things.pdf",
-    "PDFs/Planning_Algorithms.pdf",
-    "Untitled.canvas",
+    "Notetaking/Videos/Papers 1/Approximate_Sequential_Optimization_for_informative_path_planning.pdf",
+    "Notetaking/Papers",
+    "Notetaking/Videos/Programming/Video. How to create a plugin for Obsidian.md",
+    "Notetaking/Videos/Papers 1",
+    "Notetaking/Videos/Programming/Video. Learn Any New Framework.Language FAST With These 5 Steps.md",
+    "Notetaking/Videos/Programming",
+    "Notetaking/Videos/Learn Any New Framework or Language FAST With These 5 Steps.md",
     "README.md",
-    "PDFs",
+    "Notetaking/Videos",
+    "Notetaking/Articles",
+    "Clippings/3 Financial Statements to Measure a Company's Strength.md",
+    "Clippings",
+    "Notetaking/Articles",
+    "Notetaking/Books",
+    "Notetaking/Untitled.md",
+    "Untitled.canvas",
     "2025-06-02.md",
     "Untitled 1.canvas",
     "CSCE 643 Seminar in Robotics - Day 1.md",
-    "Notetaking",
     "Veldt Thesis.md",
     "LambdaCC.md",
     "lambda.md",
-    "$$/lambda$$.md",
-    "$$"
+    "$$/lambda$$.md"
   ]
 }
