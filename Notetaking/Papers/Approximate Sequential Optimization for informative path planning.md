@@ -272,3 +272,171 @@ annotation-target: PDFs/Approximate_sequential_optimization_for_informative_path
 >%%TAGS%%
 >
 ^2j3v5pg0s1j
+
+
+>%%
+>```annotation-json
+>{"created":"2025-06-09T15:24:01.324Z","updated":"2025-06-09T15:24:01.324Z","document":{"title":"Approximate sequential optimization for informative path planning","link":[{"href":"urn:x-pdf:a20d83b7d6562fc77df3eef5f27fa27d"},{"href":"vault:/PDFs/Approximate_sequential_optimization_for_informative_path_planning.pdf"}],"documentFingerprint":"a20d83b7d6562fc77df3eef5f27fa27d"},"uri":"vault:/PDFs/Approximate_sequential_optimization_for_informative_path_planning.pdf","target":[{"source":"vault:/PDFs/Approximate_sequential_optimization_for_informative_path_planning.pdf","selector":[{"type":"TextPositionSelector","start":15101,"end":15222},{"type":"TextQuoteSelector","exact":"We will refer to the 𝐭𝐫(𝛴), logdet(𝛴), −𝐭𝐫(𝛴−1) objectives as the A-IPP, D-IPP, and B-IPP objectives respectively.","prefix":"eoriginal sensor selection task.","suffix":" For the A-IPP objectivewe seek "}]}]}
+>```
+>%%
+>*%%PREFIX%%eoriginal sensor selection task.%%HIGHLIGHT%% ==We will refer to the 𝐭𝐫(𝛴), logdet(𝛴), −𝐭𝐫(𝛴−1) objectives as the A-IPP, D-IPP, and B-IPP objectives respectively.== %%POSTFIX%%For the A-IPP objectivewe seek*
+>%%LINK%%[[#^xp5ul3u33k|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^xp5ul3u33k
+
+
+>%%
+>```annotation-json
+>{"created":"2025-06-09T15:25:33.577Z","updated":"2025-06-09T15:25:33.577Z","document":{"title":"Approximate sequential optimization for informative path planning","link":[{"href":"urn:x-pdf:a20d83b7d6562fc77df3eef5f27fa27d"},{"href":"vault:/PDFs/Approximate_sequential_optimization_for_informative_path_planning.pdf"}],"documentFingerprint":"a20d83b7d6562fc77df3eef5f27fa27d"},"uri":"vault:/PDFs/Approximate_sequential_optimization_for_informative_path_planning.pdf","target":[{"source":"vault:/PDFs/Approximate_sequential_optimization_for_informative_path_planning.pdf","selector":[{"type":"TextPositionSelector","start":16324,"end":16460},{"type":"TextQuoteSelector","exact":"Similarly, to enforce the start and termination of the path, we do notallow any edges to enter the starting node or leave the goal node:","prefix":" = ∑𝑗∈𝑁𝑖𝑛(𝑛)𝑧𝑗𝑛 = 1. (8)","suffix":"∑𝑖∈𝑁𝑖𝑛(1)𝑧𝑖1 = ∑𝑗∈𝑁𝑜𝑢\ud835"}]}]}
+>```
+>%%
+>*%%PREFIX%%= ∑𝑗∈𝑁𝑖𝑛(𝑛)𝑧𝑗𝑛 = 1. (8)%%HIGHLIGHT%% ==Similarly, to enforce the start and termination of the path, we do notallow any edges to enter the starting node or leave the goal node:== %%POSTFIX%%∑𝑖∈𝑁𝑖𝑛(1)𝑧𝑖1 = ∑𝑗∈𝑁𝑜𝑢�*
+>%%LINK%%[[#^euy5v9zzrfg|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^euy5v9zzrfg
+
+
+>%%
+>```annotation-json
+>{"created":"2025-06-09T15:25:38.978Z","updated":"2025-06-09T15:25:38.978Z","document":{"title":"Approximate sequential optimization for informative path planning","link":[{"href":"urn:x-pdf:a20d83b7d6562fc77df3eef5f27fa27d"},{"href":"vault:/PDFs/Approximate_sequential_optimization_for_informative_path_planning.pdf"}],"documentFingerprint":"a20d83b7d6562fc77df3eef5f27fa27d"},"uri":"vault:/PDFs/Approximate_sequential_optimization_for_informative_path_planning.pdf","target":[{"source":"vault:/PDFs/Approximate_sequential_optimization_for_informative_path_planning.pdf","selector":[{"type":"TextPositionSelector","start":16111,"end":16271},{"type":"TextQuoteSelector","exact":"we know the start and end nodes must exist on the path meaningthat one edge going out of the start node and one edge going into thegoal node must be in the path","prefix":"nd goal nodes respectively,then ","suffix":":∑𝑖∈𝑁𝑜𝑢𝑡(1)𝑧1𝑖 = ∑𝑗∈𝑁𝑖"}]}]}
+>```
+>%%
+>*%%PREFIX%%nd goal nodes respectively,then%%HIGHLIGHT%% ==we know the start and end nodes must exist on the path meaningthat one edge going out of the start node and one edge going into thegoal node must be in the path== %%POSTFIX%%:∑𝑖∈𝑁𝑜𝑢𝑡(1)𝑧1𝑖 = ∑𝑗∈𝑁𝑖*
+>%%LINK%%[[#^68jir3opcdi|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^68jir3opcdi
+
+
+>%%
+>```annotation-json
+>{"created":"2025-06-09T15:25:46.539Z","updated":"2025-06-09T15:25:46.539Z","document":{"title":"Approximate sequential optimization for informative path planning","link":[{"href":"urn:x-pdf:a20d83b7d6562fc77df3eef5f27fa27d"},{"href":"vault:/PDFs/Approximate_sequential_optimization_for_informative_path_planning.pdf"}],"documentFingerprint":"a20d83b7d6562fc77df3eef5f27fa27d"},"uri":"vault:/PDFs/Approximate_sequential_optimization_for_informative_path_planning.pdf","target":[{"source":"vault:/PDFs/Approximate_sequential_optimization_for_informative_path_planning.pdf","selector":[{"type":"TextPositionSelector","start":16901,"end":16994},{"type":"TextQuoteSelector","exact":"To ensure the connectivity of the path and that every node is visitedat most once, we enforce","prefix":"nstraint imposed on all methods.","suffix":"∑𝑗∈𝑁𝑜𝑢𝑡(𝑖)𝑗≠1𝑧𝑖𝑗 = ∑𝑘"}]}]}
+>```
+>%%
+>*%%PREFIX%%nstraint imposed on all methods.%%HIGHLIGHT%% ==To ensure the connectivity of the path and that every node is visitedat most once, we enforce== %%POSTFIX%%∑𝑗∈𝑁𝑜𝑢𝑡(𝑖)𝑗≠1𝑧𝑖𝑗 = ∑𝑘*
+>%%LINK%%[[#^94ryl3m9xe|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^94ryl3m9xe
+
+
+>%%
+>```annotation-json
+>{"created":"2025-06-09T15:28:06.500Z","updated":"2025-06-09T15:28:06.500Z","document":{"title":"Approximate sequential optimization for informative path planning","link":[{"href":"urn:x-pdf:a20d83b7d6562fc77df3eef5f27fa27d"},{"href":"vault:/PDFs/Approximate_sequential_optimization_for_informative_path_planning.pdf"}],"documentFingerprint":"a20d83b7d6562fc77df3eef5f27fa27d"},"uri":"vault:/PDFs/Approximate_sequential_optimization_for_informative_path_planning.pdf","target":[{"source":"vault:/PDFs/Approximate_sequential_optimization_for_informative_path_planning.pdf","selector":[{"type":"TextPositionSelector","start":19634,"end":19716},{"type":"TextQuoteSelector","exact":"value of visiting node 𝑗 conditioned on the previously visited nodes.For example,","prefix":"ute 𝑟𝑗, which is the estimated","suffix":"𝑟𝑗 = −𝜙((𝑝𝑡,𝑗)) (17)which "}]}]}
+>```
+>%%
+>*%%PREFIX%%ute 𝑟𝑗, which is the estimated%%HIGHLIGHT%% ==value of visiting node 𝑗 conditioned on the previously visited nodes.For example,== %%POSTFIX%%𝑟𝑗 = −𝜙((𝑝𝑡,𝑗)) (17)which*
+>%%LINK%%[[#^xah2qsa468m|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^xah2qsa468m
+
+
+>%%
+>```annotation-json
+>{"created":"2025-06-09T15:28:13.894Z","updated":"2025-06-09T15:28:13.894Z","document":{"title":"Approximate sequential optimization for informative path planning","link":[{"href":"urn:x-pdf:a20d83b7d6562fc77df3eef5f27fa27d"},{"href":"vault:/PDFs/Approximate_sequential_optimization_for_informative_path_planning.pdf"}],"documentFingerprint":"a20d83b7d6562fc77df3eef5f27fa27d"},"uri":"vault:/PDFs/Approximate_sequential_optimization_for_informative_path_planning.pdf","target":[{"source":"vault:/PDFs/Approximate_sequential_optimization_for_informative_path_planning.pdf","selector":[{"type":"TextPositionSelector","start":19770,"end":19837},{"type":"TextQuoteSelector","exact":" if node 𝑗 was added to the current executedpath 𝑝𝑡 at time 𝑡. ","prefix":"(17)which is the objective value","suffix":"Note the negative sign since we "}]}]}
+>```
+>%%
+>*%%PREFIX%%(17)which is the objective value%%HIGHLIGHT%% ==if node 𝑗 was added to the current executedpath 𝑝𝑡 at time 𝑡.== %%POSTFIX%%Note the negative sign since we*
+>%%LINK%%[[#^rix4cd0um39|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^rix4cd0um39
+
+
+>%%
+>```annotation-json
+>{"created":"2025-06-09T15:28:57.132Z","updated":"2025-06-09T15:28:57.132Z","document":{"title":"Approximate sequential optimization for informative path planning","link":[{"href":"urn:x-pdf:a20d83b7d6562fc77df3eef5f27fa27d"},{"href":"vault:/PDFs/Approximate_sequential_optimization_for_informative_path_planning.pdf"}],"documentFingerprint":"a20d83b7d6562fc77df3eef5f27fa27d"},"uri":"vault:/PDFs/Approximate_sequential_optimization_for_informative_path_planning.pdf","target":[{"source":"vault:/PDFs/Approximate_sequential_optimization_for_informative_path_planning.pdf","selector":[{"type":"TextPositionSelector","start":21378,"end":21521},{"type":"TextQuoteSelector","exact":"The keyreason for this is that by approximating the value of node 𝑗 we arebetter able to isolate valuable regions of the environment to visit.","prefix":"s to relatively large problems. ","suffix":" Whilethis assumption assumes th"}]}]}
+>```
+>%%
+>*%%PREFIX%%s to relatively large problems.%%HIGHLIGHT%% ==The keyreason for this is that by approximating the value of node 𝑗 we arebetter able to isolate valuable regions of the environment to visit.== %%POSTFIX%%Whilethis assumption assumes th*
+>%%LINK%%[[#^ysemnaian5|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^ysemnaian5
+
+
+>%%
+>```annotation-json
+>{"created":"2025-06-09T16:31:32.194Z","updated":"2025-06-09T16:31:32.194Z","document":{"title":"Approximate sequential optimization for informative path planning","link":[{"href":"urn:x-pdf:a20d83b7d6562fc77df3eef5f27fa27d"},{"href":"vault:/PDFs/Approximate_sequential_optimization_for_informative_path_planning.pdf"}],"documentFingerprint":"a20d83b7d6562fc77df3eef5f27fa27d"},"uri":"vault:/PDFs/Approximate_sequential_optimization_for_informative_path_planning.pdf","target":[{"source":"vault:/PDFs/Approximate_sequential_optimization_for_informative_path_planning.pdf","selector":[{"type":"TextPositionSelector","start":23263,"end":23428},{"type":"TextQuoteSelector","exact":"The IPP problem can also be formulated whereeach edge (𝑖,𝑗) ∈  is assigned a weight 𝑑𝑖𝑗, where 𝑑𝑖𝑗 denotes theweight of the edge from vertex 𝑖 to vertex 𝑗","prefix":"aint on themaximum path length. ","suffix":". The maximum path lengthconstra"}]}]}
+>```
+>%%
+>*%%PREFIX%%aint on themaximum path length.%%HIGHLIGHT%% ==The IPP problem can also be formulated whereeach edge (𝑖,𝑗) ∈  is assigned a weight 𝑑𝑖𝑗, where 𝑑𝑖𝑗 denotes theweight of the edge from vertex 𝑖 to vertex 𝑗== %%POSTFIX%%. The maximum path lengthconstra*
+>%%LINK%%[[#^yt3x99v7b2|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^yt3x99v7b2
+
+
+>%%
+>```annotation-json
+>{"created":"2025-06-09T16:32:26.562Z","updated":"2025-06-09T16:32:26.562Z","document":{"title":"Approximate sequential optimization for informative path planning","link":[{"href":"urn:x-pdf:a20d83b7d6562fc77df3eef5f27fa27d"},{"href":"vault:/PDFs/Approximate_sequential_optimization_for_informative_path_planning.pdf"}],"documentFingerprint":"a20d83b7d6562fc77df3eef5f27fa27d"},"uri":"vault:/PDFs/Approximate_sequential_optimization_for_informative_path_planning.pdf","target":[{"source":"vault:/PDFs/Approximate_sequential_optimization_for_informative_path_planning.pdf","selector":[{"type":"TextPositionSelector","start":24056,"end":24105},{"type":"TextQuoteSelector","exact":"adaptive informative path planning (AIPP)problem ","prefix":"s typ-ically referred to as the ","suffix":"[22,23]. These adaptive objectiv"}]}]}
+>```
+>%%
+>*%%PREFIX%%s typ-ically referred to as the%%HIGHLIGHT%% ==adaptive informative path planning (AIPP)problem== %%POSTFIX%%[22,23]. These adaptive objectiv*
+>%%LINK%%[[#^sur6qleznl|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^sur6qleznl
+
+
+>%%
+>```annotation-json
+>{"created":"2025-06-09T16:32:32.101Z","updated":"2025-06-09T16:32:32.101Z","document":{"title":"Approximate sequential optimization for informative path planning","link":[{"href":"urn:x-pdf:a20d83b7d6562fc77df3eef5f27fa27d"},{"href":"vault:/PDFs/Approximate_sequential_optimization_for_informative_path_planning.pdf"}],"documentFingerprint":"a20d83b7d6562fc77df3eef5f27fa27d"},"uri":"vault:/PDFs/Approximate_sequential_optimization_for_informative_path_planning.pdf","target":[{"source":"vault:/PDFs/Approximate_sequential_optimization_for_informative_path_planning.pdf","selector":[{"type":"TextPositionSelector","start":23888,"end":23982},{"type":"TextQuoteSelector","exact":" like lowerconfidence bound and expected improvement, that depend on thereceived sample values","prefix":"nclusion of adaptive objectives,","suffix":" [24]. Incorporating adaptive ob"}]}]}
+>```
+>%%
+>*%%PREFIX%%nclusion of adaptive objectives,%%HIGHLIGHT%% ==like lowerconfidence bound and expected improvement, that depend on thereceived sample values== %%POSTFIX%%[24]. Incorporating adaptive ob*
+>%%LINK%%[[#^u0g5icrw0t|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^u0g5icrw0t
+
+
+>%%
+>```annotation-json
+>{"created":"2025-06-09T16:35:58.669Z","updated":"2025-06-09T16:35:58.669Z","document":{"title":"Approximate sequential optimization for informative path planning","link":[{"href":"urn:x-pdf:a20d83b7d6562fc77df3eef5f27fa27d"},{"href":"vault:/PDFs/Approximate_sequential_optimization_for_informative_path_planning.pdf"}],"documentFingerprint":"a20d83b7d6562fc77df3eef5f27fa27d"},"uri":"vault:/PDFs/Approximate_sequential_optimization_for_informative_path_planning.pdf","target":[{"source":"vault:/PDFs/Approximate_sequential_optimization_for_informative_path_planning.pdf","selector":[{"type":"TextPositionSelector","start":26510,"end":26643},{"type":"TextQuoteSelector","exact":" further extension of the problem to multimodalsensing domains where each measurement location also involves choos-ing a sensor type.","prefix":" (0,𝜎2).We can also consider a","suffix":" The sensor type directly influe"}]}]}
+>```
+>%%
+>*%%PREFIX%%(0,𝜎2).We can also consider a%%HIGHLIGHT%% ==further extension of the problem to multimodalsensing domains where each measurement location also involves choos-ing a sensor type.== %%POSTFIX%%The sensor type directly influe*
+>%%LINK%%[[#^v16sdoly5m|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^v16sdoly5m
+
+
+>%%
+>```annotation-json
+>{"created":"2025-06-09T16:39:10.385Z","text":"Each agent has a path - Follow it","updated":"2025-06-09T16:39:10.385Z","document":{"title":"Approximate sequential optimization for informative path planning","link":[{"href":"urn:x-pdf:a20d83b7d6562fc77df3eef5f27fa27d"},{"href":"vault:/PDFs/Approximate_sequential_optimization_for_informative_path_planning.pdf"}],"documentFingerprint":"a20d83b7d6562fc77df3eef5f27fa27d"},"uri":"vault:/PDFs/Approximate_sequential_optimization_for_informative_path_planning.pdf","target":[{"source":"vault:/PDFs/Approximate_sequential_optimization_for_informative_path_planning.pdf","selector":[{"type":"TextPositionSelector","start":29179,"end":29495},{"type":"TextQuoteSelector","exact":"Consider a set of 𝑀 agents  = {𝐴1,𝐴2,... ,𝐴𝑀}. Each agent 𝐴𝑖 istasked with traversing the graph to collect measurements. The agentsshare their measurements, forming a collective measurement vector.For agent 𝐴𝑗, its path is 𝑝𝑗 = {𝑖𝑗1,𝑖𝑗2,... ,𝑖𝑗𝐿𝑗 }, where 𝐿𝑗 is the lengthof agent 𝐴𝑗’s path. ","prefix":"milarfashion.5.4. Multi-agentIPP","suffix":"Along each path 𝑝𝑗, agent 𝐴𝑗"}]}]}
+>```
+>%%
+>*%%PREFIX%%milarfashion.5.4. Multi-agentIPP%%HIGHLIGHT%% ==Consider a set of 𝑀 agents  = {𝐴1,𝐴2,... ,𝐴𝑀}. Each agent 𝐴𝑖 istasked with traversing the graph to collect measurements. The agentsshare their measurements, forming a collective measurement vector.For agent 𝐴𝑗, its path is 𝑝𝑗 = {𝑖𝑗1,𝑖𝑗2,... ,𝑖𝑗𝐿𝑗 }, where 𝐿𝑗 is the lengthof agent 𝐴𝑗’s path.== %%POSTFIX%%Along each path 𝑝𝑗, agent 𝐴𝑗*
+>%%LINK%%[[#^txh4zo4gy48|show annotation]]
+>%%COMMENT%%
+>Each agent has a path - Follow it
+>%%TAGS%%
+>
+^txh4zo4gy48
