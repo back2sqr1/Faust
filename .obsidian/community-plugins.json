@@ -3,8 +3,8 @@
   "obsidian-annotator",
   "obsidian-latex-suite",
   "dataview",
-  "media-notes",
   "sample-plugin",
   "hot-reload",
-  "annotate-articles"
+  "annotate-articles",
+  "media-notes"
 ]
