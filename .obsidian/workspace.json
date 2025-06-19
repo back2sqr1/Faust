@@ -11,12 +11,14 @@
             "id": "58ca945ac6664624",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Notetaking/Papers/Simultaneously_Search_and_Localize_Semantic_Objects_in_Unknown_Environments.pdf"
+                "file": "Notetaking/Videos/Programming/System Design for Beginners Course.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Simultaneously_Search_and_Localize_Semantic_Objects_in_Unknown_Environments"
+              "icon": "lucide-file",
+              "title": "System Design for Beginners Course"
             }
           }
         ]
@@ -165,31 +167,31 @@
   },
   "active": "80f2e5ed64742791",
   "lastOpenFiles": [
+    "Notetaking/Videos/MultAgent Systems/Video. 01-02 Where did MultiAgent Systems Come From?.md",
+    "Notetaking/Videos/Programming/System Design for Beginners Course.md",
+    "Notetaking/Videos/MultAgent Systems",
+    "Notetaking/Papers/Simultaneously_Search_and_Localize_Semantic_Objects_in_Unknown_Environments.pdf",
+    "Notetaking/Books/Artificial-Intelligence-A-Modern-Approach-4th-Edition-1-compressed.pdf",
+    "Notetaking/Books/convex_optimization.pdf",
+    "Notetaking/Books/Robotics_Modelling, Planning and Control_Sciavicco_extract.pdf",
+    "Notetaking/Books/The_Design_of_Everyday_Things.pdf",
+    "Notetaking/Videos/Stanford EE364A Convex Optimization/Lecture 2.md",
     "Notetaking/Papers",
-    "Notetaking/Videos/Stanford EE364A Convex Optimization/Lecture 2.md",
-    "Notetaking/Videos/Stanford EE364A Convex Optimization/Lecture 2.md",
     "Notetaking/Videos/Programming/Video. Gurobi Opti101 Training Video 2 - Introduction. Why Math Optimization?.md",
     "Notetaking/Videos/Stanford EE364A Convex Optimization/Untitled",
     "Notetaking/Videos/Stanford EE364A Convex Optimization",
     "Notetaking/Videos/Programming/Video. How to create a plugin for Obsidian.md",
     "Notetaking/Videos/Programming/Video. Learn Any New Framework.Language FAST With These 5 Steps.md",
-    "Notetaking/Books/convex_optimization.pdf",
-    "Notetaking/Books/The_Design_of_Everyday_Things.pdf",
-    "Notetaking/Books/Robotics_Modelling, Planning and Control_Sciavicco_extract.pdf",
     "Notetaking/Books/Planning_Algorithms.pdf",
     "Notetaking/Articles/3 Financial Statements to Measure a Company's Strength.md",
     "Notetaking/Videos/Programming/Video. Gurobi Opti101 Training Video 1 - Introduction & Welcome.md",
     "Notetaking/Papers/Approximate Sequential Optimization for informative path planning.md",
     "Notetaking/Books/Motion Planning - Steven Lavelle.md",
-    "PDFs/Approximate_sequential_optimization_for_informative_path_planning.pdf",
     "README.md",
     "2025-06-09.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Notetaking/Books/Design of Everyday things.md",
-    "Notetaking/Videos/Papers 1/Approximate_Sequential_Optimization_for_informative_path_planning.pdf",
-    "Notetaking/Papers",
-    "Notetaking/Videos/Papers 1",
     "Notetaking/Videos/Learn Any New Framework or Language FAST With These 5 Steps.md",
     "Clippings/3 Financial Statements to Measure a Company's Strength.md",
     "Notetaking/Untitled.md",
